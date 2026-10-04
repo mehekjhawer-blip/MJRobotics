@@ -1,2 +1,1 @@
 # MJRobotics
-Robotics fundamentals
